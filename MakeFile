@@ -1,0 +1,2 @@
+main:
+	gcc -o main Creating.c Deleting.c Printing.c Requests.c Tree.c Main.c Testing.c Utilities.c
